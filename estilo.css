@@ -19,7 +19,7 @@ picture {
 }
 
 picture img {
-    width: 30%; /*  width: ancho / height: alto*/ 
+    width: 40%; /*  width: ancho / height: alto*/ 
     justify-content: center;
 }
 
